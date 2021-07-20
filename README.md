@@ -1,2 +1,2 @@
 # curly-guacamole
-Scripts to handle AWS jobs for genome analyses
+Various scripts to handle AWS jobs for genome analyses
